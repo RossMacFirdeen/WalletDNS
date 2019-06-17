@@ -1,5 +1,5 @@
 
-**This document is a working version**
+**This document is a DRAFT version**
 
 ## Cryptographic Wallet DNS based naming convention
 
