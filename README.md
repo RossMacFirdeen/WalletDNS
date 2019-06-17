@@ -32,6 +32,8 @@ address.xrp.rtxp.contoso.com = rKCSiPJhLDgK24RFpbxJ3bVCqW78EHBZD
 **TXT Record #2 :**
 dt.xrp.rtxp.contoso.com = 4258
 
+This way your can receive XRP payments : **consoto.com**
+
 ## Example #2 (with the sub-domain mywallets.contoso.com)
 
  - XRP Wallet address : rP6LSvd6H2fzcqtJhmtDhR33ozH5VFmW8e
@@ -44,3 +46,4 @@ address.xrp.rtxp.mywallets.contoso.com = rP6LSvd6H2fzcqtJhmtDhR33ozH5VFmW8e
 **TXT Record #2 :**
 dt.xrp.rtxp.mywallets.contoso.com = 75846
 
+This way your can receive XRP payments : **mywallets.consoto.com**
