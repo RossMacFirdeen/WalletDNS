@@ -11,7 +11,7 @@ The proposed approach consists of the use of DNS records ( **TXT** record type),
 
 The structuring of TXT records would be as follow :
 
-**[attribute]. [ISO4217Code]. [protocol]. [[optionalSubdomain.]domain.tld]**
+**[attribute].[ISO4217Code].[protocol].[[optionalSubdomain.]domain.tld]**
 
 The protocol part is mandatory and linked to each coin to be represented ( eq : for the XRP asset , the corresponding protocol is RTXP)
 
