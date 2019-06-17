@@ -18,7 +18,7 @@ The protocol part is mandatory and linked to each coin to be represented ( eq : 
 Below, the accepted values for the attribute part :
 
  - **address** : Indicates that the value of the TXT record is representing the wallet address
- - **dt**:   Indicates that the value of the TXT record is representing the destination tag (this attribute is facultative)
+ - **dt**:   Indicates that the value of the TXT record is representing the destination tag **(this attribute is facultative)**
 
 ## Example #1 (with domain contoso.com)
 
